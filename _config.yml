@@ -1,0 +1,10 @@
+# _config.yml
+
+title: "My Test Site"
+
+defaults:
+  -
+    scope:
+      path: "" 
+    values:
+      render_with_liquid: false
