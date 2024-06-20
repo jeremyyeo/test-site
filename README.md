@@ -1,3 +1,6 @@
-# test-site
+---
+---
+
+# Test Site
 
 Just testing.
