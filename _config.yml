@@ -1,6 +1,6 @@
 # _config.yml
 
-title: "My Test Site"
+theme: jekyll-theme-minimal
 
 defaults:
   -
