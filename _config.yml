@@ -1,10 +1,12 @@
 # _config.yml
 
-theme: jekyll-swiss
+title: Hello World
+theme: jekyll-theme-minimal
 
 defaults:
   -
     scope:
       path: "" 
     values:
+      layout: "default"
       render_with_liquid: false

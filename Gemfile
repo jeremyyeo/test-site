@@ -3,4 +3,4 @@
 source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.2"
-gem "jekyll-swiss"
+gem "jekyll-theme-minimal"
